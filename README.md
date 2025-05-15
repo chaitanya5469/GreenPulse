@@ -26,11 +26,6 @@
 * Interactive line charts for each metric using the `compose-linechart` library.
 * Expandable card views reveal historical trends.
 
-### 🕒 Watering Timeline
-
-* Visual timeline showing `lastWatered` events.
-* Automatic and manual watering records stored as timestamps.
-
 ### 💦 Manual & Smart Watering
 
 * Smart watering is triggered when soil moisture is below a threshold.
