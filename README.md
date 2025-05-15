@@ -26,6 +26,11 @@
 * Interactive line charts for each metric using the `compose-linechart` library.
 * Expandable card views reveal historical trends.
 
+### 🕒 Watering Timeline
+
+* Visual timeline showing `lastWatered` events.
+* Automatic and manual watering records stored as timestamps.
+
 ### 💦 Manual & Smart Watering
 
 * Smart watering is triggered when soil moisture is below a threshold.
@@ -55,15 +60,15 @@
 
 ### 🔍 Dashboard Overview
 
-![Dashboard](screenshots/dashboard.jpeg)
+<img src="screenshots/dashboard.jpeg" width="400" height="800"/>
 
 ### 📈 Sensor Graphs
 
-![Graphs](screenshots/charts.jpeg)
+<img src="screenshots/charts.jpeg" width="400" height="800"/>
 
 ### 🌾 AI Crop Suggestions
 
-![AI Suggestions](screenshots/smartsuggestions.jpeg)
+<img src="screenshots/smartsuggestions.png" width="400" height="800"/>
 
 ---
 
@@ -133,10 +138,9 @@
 
 ---
 
-
 ## 👨‍💻 Developer
 
-Made with ❤️ by **Chaitanya**
+Made by **Chaitanya**
 GitHub: [@chaitanya5469](https://github.com/chaitanya5469)
 
 ---
