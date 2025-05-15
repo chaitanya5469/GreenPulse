@@ -56,7 +56,6 @@
 
 ## 📷 Screenshots
 
-> *Replace the image links below with your actual screenshots.*
 
 ### 🔍 Dashboard Overview
 
@@ -68,7 +67,7 @@
 
 ### 🌾 AI Crop Suggestions
 
-<img src="screenshots/smartsuggestions.png" width="400" height="800"/>
+<img src="screenshots/smartsuggestions.jpeg" width="400" height="800"/>
 
 ---
 
