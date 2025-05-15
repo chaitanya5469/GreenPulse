@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823291865336",
+    "project_id": "greenpulse-b7989",
+    "storage_bucket": "greenpulse-b7989.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823291865336:android:16d174307fa7bdf041b30d",
+        "android_client_info": {
+          "package_name": "chaitu.android.greenpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI3N-lw7KS-1rWXXJWUBnXYxYIwoY3HaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
