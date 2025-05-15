@@ -55,19 +55,15 @@
 
 ### 🔍 Dashboard Overview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ### 📈 Sensor Graphs
 
-![Graphs](screenshots/graphs.png)
-
-### 💦 Watering History
-
-![Watering](screenshots/watering_timeline.png)
+![Graphs](screenshots/charts.jpeg)
 
 ### 🌾 AI Crop Suggestions
 
-![AI Suggestions](screenshots/ai_suggestions.png)
+![AI Suggestions](screenshots/smartsuggestions.jpeg)
 
 ---
 
